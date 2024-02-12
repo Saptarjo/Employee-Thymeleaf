@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.springbootwiththymeleaf</groupId>
-	<artifactId>Springboot-thymeleaf</artifactId>
+	<artifactId>Employee-thymeleaf</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Springboot-thymeleaf</name>
+	<name>Employee-thymeleaf</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
