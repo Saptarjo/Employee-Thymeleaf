@@ -8,6 +8,7 @@ public class SpringbootThymeleafApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootThymeleafApplication.class, args);
+		// developed by Saptarshi
 	}
 
 }
